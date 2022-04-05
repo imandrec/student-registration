@@ -1,0 +1,25 @@
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.AddStudentForm.resources
+C:\Users\engro\Desktop\Tasks Done\24 Urgent Katly Task\StudentRegistration\obj\Debug\StudentRegistration.ModifyStudentForm.resources
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.AddStudentForm.resources
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.ModifyStudentForm.resources
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\andre\Desktop\Universidad\segundo semestre\.net\StudentRegistration\obj\Debug\StudentRegistration.pdb
